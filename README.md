@@ -22,7 +22,7 @@
 ## Ekspor
 ![Hasil Run](/ekspor.jpg)
 ![Hasil Run](/ekspor2.jpg)
-![Hasil Run](/eskporBerhasil.jpg)
+![Hasil Run](/eksporBerhasil.jpg)
 
 ## Hasil file CSV
 ![Hasil Run](/fileCSV.jpg)
